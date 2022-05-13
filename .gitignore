@@ -21,4 +21,7 @@
 *.mtc1
 *.out
 *.synctex.gz
-*.mph.lock
+*.mph.lock./.git/objects/0e/754c5e3f9031fead922db9ea34e356d2171a48
+./simulations/battery-tutorials/liquid-cooled-prismatic-lithium-ion-battery-pack.mph
+./simulations/pcm-tutorials/evaporative-cooling-of-water.mph
+./simulations/pcm-tutorials/pcm-square.mph

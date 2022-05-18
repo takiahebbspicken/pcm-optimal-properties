@@ -1,0 +1,4 @@
+batt_cp 958.5[J/kg/K] "Battery specific heat"
+batt_ka 1.78[W/m/K] "Battery axial thermal conductivity"
+batt_kr 0.413[W/m/K] "Battery radial thermal conductivity"
+batt_rho 2901.97[kg/m^3] "NCA battery density"

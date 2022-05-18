@@ -1,0 +1,6 @@
+cell_half_h 0.0325[m] "Cell half height"
+cell_num 4 "Number of cells"
+cell_r 0.009[m] "Cell radius"
+cell_vol (2*cell_half_h)*pi*cell_r^2 "Cell Volume"
+pcm_width_factor 1 ""
+space_factor 3 "Spacing factor - multiplied by cell radius"
